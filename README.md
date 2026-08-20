@@ -1,7 +1,10 @@
 ## Hello! I'm Tanishka 👋
-Building fun and interactive projects while learning, experimenting, and turning random ideas into code. 🚀💻
+Building fun and interactive projects while learning, experimenting, and turning random ideas into code.🚀💻
+
 💻 Information Technology Student at NWC
+
 🌱 I’m currently learning Java 
+
 ⚡Curious to learn, experiment, and improve
 
 
